@@ -2,4 +2,4 @@
 
 Questions already in ipynb files.
 
-q1 is done, q2 and q3 not done, alternation edit required.
+q1, q2 is done, q3 not done, alternation edit required.
